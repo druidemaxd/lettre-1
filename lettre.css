@@ -1,3 +1,5 @@
+@charset "utf-8"
+/*body*/
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16;
@@ -9,16 +11,17 @@ body{
     width:900px;
     box-shadow: 5px 10px 50px;
 }
-
+/*madame*/
 .madame{
    text-align: right;
    padding-right: 60px;
 }
-
+/*coordonnées*/
 .coordonnées{
     padding-right: 60px;
     padding: 10px;
 }
+/*ma_demande*/
 .ma_demande{
     text-align: justify;
     padding: 10px;
